@@ -1,0 +1,123 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+ul {
+color: black;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    word-spacing: 30px;
+    }
+
+div a {
+    position: relative;
+    display: block;
+    background-color: antiquewhite;
+    font-size: 18px;
+    height: 25px;
+    width: 115px;
+    text-align: center;
+    text-decoration: none
+}
+
+div {
+    float: left;
+    margin: 100px 100px 100px 100px;
+}
+body {
+
+    background-image: url("howitworks.jpg");
+}
+    h1 {
+    font-family: "Arial Unicode MS";
+    
+	
+}
+h2 {
+    font-family: "Arial Unicode MS";
+    
+}
+h3 {
+    font-family: "Arial Unicode MS";
+}
+li, {
+    font-family: "Arial Unicode MS";
+	
+}
+ul li {
+    font-family: "Arial Unicode MS";
+    
+	
+}
+
+ol li {
+
+}
+a: link{
+    
+}
+a:hover {
+	
+}
+
+
+
+
